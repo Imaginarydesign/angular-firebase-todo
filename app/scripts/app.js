@@ -6,7 +6,8 @@ angular
     'ngResource',
     'ngSanitize',
     'ngRoute',
-    'ui.sortable'
+    'ui.sortable',
+    'firebase'
   ])
   .config(function ($routeProvider) {
     $routeProvider
