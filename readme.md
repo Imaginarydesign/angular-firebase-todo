@@ -1,4 +1,4 @@
-angular-app
+angular-app-todo
 ================
 
 A simple starting point for learning AngularJS
