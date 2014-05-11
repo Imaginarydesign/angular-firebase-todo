@@ -3,7 +3,7 @@
 angular.module('angularAppApp')
   .controller('MainCtrl', function ($scope, $firebase) {
 
-    var url = 'https://amber-fire-2443.firebaseio.com';
+    var url = 'https://amber-fire-2443.firebaseio.com/todos';
     var todoRef = new Firebase(url);
 
     $scope.addTodo = function () {
