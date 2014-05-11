@@ -1,7 +1,5 @@
-angular-app-todo
+AngularJs & Firebase Todo Example 
 ================
-
-A simple starting point for learning AngularJS
 
 To run the application clone the repo and :
 
